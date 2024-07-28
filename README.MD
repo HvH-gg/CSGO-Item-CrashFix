@@ -1,4 +1,4 @@
-![Copyright ev0lve Digital](https://img.shields.io/badge/Copyright-ev0lve%20Digital-blue) ![GitHub License](https://img.shields.io/github/license/HvH-gg/CSGO-Item-CrashFix) ![Issues](https://img.shields.io/github/issues/HvH-gg/CSGO-Item-CrashFix) ![Downloads](https://img.shields.io/github/downloads/HvH-gg/CSGO-Item-CrashFix/total) ![Stars](https://img.shields.io/github/stars/HvH-gg/CSGO-Item-CrashFix)
+![Copyright ev0lve Digital](https://img.shields.io/badge/Copyright-ev0lve%20Digital-blue) ![GitHub License](https://img.shields.io/github/license/HvH-gg/CSGO-Item-CrashFix) ![Issues](https://img.shields.io/github/issues/HvH-gg/CSGO-Item-CrashFix) ![Stars](https://img.shields.io/github/stars/HvH-gg/CSGO-Item-CrashFix)
 
 # HvH.gg CS:GO Item CrashFix (1.0.0)
 
