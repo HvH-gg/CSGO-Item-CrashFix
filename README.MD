@@ -1,6 +1,6 @@
 ![Copyright ev0lve Digital](https://img.shields.io/badge/Copyright-ev0lve%20Digital-blue) ![GitHub License](https://img.shields.io/github/license/HvH-gg/CSGO-Item-CrashFix) ![Issues](https://img.shields.io/github/issues/HvH-gg/CSGO-Item-CrashFix) ![Stars](https://img.shields.io/github/stars/HvH-gg/CSGO-Item-CrashFix)
 
-# HvH.gg CS:GO Item CrashFix (1.0.0)
+# [HvH.gg](https://hvh.gg) CS:GO Item CrashFix (1.0.0)
 
 This plugin fixes an exploit where receiving CS2 Items will cause CS:GO clients to crash.
 
@@ -15,5 +15,6 @@ This plugin fixes an exploit where receiving CS2 Items will cause CS:GO clients 
 3. Type `sm plugins load hvhgg_item_crash_fix` in your server console
 
 # Credits
+- [HvH.gg](https://hvh.gg)
 - [Metamod:Source](https://www.sourcemm.net/)
 - [Sourcemod](https://www.sourcemod.net/)
